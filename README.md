@@ -32,8 +32,9 @@ My expertise spans **backend** APIs to **rich frontend** experiences, delivering
 
 | Project                                            | Description                                      | Tech Stack                          |
 | -------------------------------------------------- | ------------------------------------------------ | ----------------------------------- |
-| [API Marketplace](https://github.cojm/jfcofer/api-marketplace)  | • Multi-tenant API platform                        | .NET Core · Entity Framework · PostgreSQL        |
-| [Flutter E-Commerce App](https://github.com/jfcofer/flutter-shop)  | • Cross-platform mobile storefront                 | Flutter · Dart · Firebase                       |
+| [Flutter To-Do App](https://github.com/jfcofer/flutter_bloctuto)  | • Cross-platform mobile tasks                 | Flutter · Dart · SQLite                       |
+| [Image Compressor Online](https://github.com/jfcofer/DMProject-Huffman)  | • Huffman Image Compressor Online                 | React · Python                       |
+| [Statistics Visualization](https://github.com/jfcofer/StatisticsProject-ESPOL)  | • Statistic Project University                        | R        |
 
 _For a full list, visit my [GitHub Repositories](https://github.com/jfcofer?tab=repositories)._
 
